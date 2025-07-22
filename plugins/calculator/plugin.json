@@ -1,6 +1,5 @@
 {
-  "name": "Calculator",
-  "version": "1.0.0",
-  "description": "A simple calculator plugin",
-  "zip_url": "https://github.com/ERFANA83/TestFlutter/raw/refs/heads/main/plugins/calculator/calculator.zip"
+  "name": "calculator",
+  "type": "widget",
+  "entry": "calculator_widget.dart"
 }
