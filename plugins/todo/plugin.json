@@ -1,6 +1,5 @@
 {
-  "name": "Todo",
-  "version": "1.0.0",
-  "description": "A basic todo list plugin",
-  "zip_url": "https://github.com/ERFANA83/TestFlutter/raw/refs/heads/main/plugins/todo/todo.zip"
+  "name": "todo",
+  "type": "widget",
+  "entry": "todo_widget.dart"
 }
